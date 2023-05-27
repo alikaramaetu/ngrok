@@ -15,4 +15,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run Shell Script
-        run: ./script.sh
+        run: ./ngrok.sh
